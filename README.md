@@ -3,7 +3,7 @@
 ## E-commerce Specialist & Data Manager | Shopify Developer | Python Developer | Digital Asset Administrator | Photographer
 
 **Location:** High Point, North Carolina, United States 📍  
-**Contact info:** [LinkedIn](www.linkedin.com/in/eriktaveras) 💼
+**Contact info:** [LinkedIn](www.linkedin.com/in/eriktaveras/) 💼
 
 ---
 
