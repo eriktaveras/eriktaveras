@@ -39,13 +39,6 @@ I started my career in photography, a passion that has significantly influenced 
 
 ---
 
-## 🎓 Education
-
-**Universidad Abierta para Adultos**  
-Bachelor's Degree in [Your Field of Study]
-
----
-
 ## 📜 Licenses & Certifications
 
 - Django, Platzi, Dec 2023 🖥️
