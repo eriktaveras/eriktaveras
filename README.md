@@ -8,6 +8,8 @@
 ---
 
 ## 🙋‍♂️ About Me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I started my career in photography, a passion that has significantly influenced my professional journey. Leveraging my expertise in photography, I've transitioned into e-commerce, utilizing my skills to enhance online stores' efficiency and customer experience. My proficiency in managing digital assets, coupled with my ability to develop automation scripts for e-commerce platforms like Shopify, has allowed me to optimize online shopping experiences. I'm committed to solving complex problems, improving online store operations, and enriching customer shopping experiences.
 
