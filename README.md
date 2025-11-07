@@ -1,100 +1,109 @@
-# Hey there! I'm Erik Taveras 📸💻
+# Hey, I'm Erik Taveras 👋
 
-## E-commerce Tech Guy | Python/Django Developer | Shopify API Wizard | Photographer | IT Lead
+**Automation Architect | Django & Python Developer | Shopify API | n8n / MCP / AI for Business**
 
-**Location:** High Point, North Carolina 🇺🇸  
-**Get in touch:** [LinkedIn](https://www.linkedin.com/in/eriktaveras/) | hello@eriktaveras.com
+Building internal tools and automation systems that help businesses move faster.
 
----
-
-## 🙋‍♂️ A bit about me
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktaveras)](https://github.com/eriktaveras/github-readme-stats)
-
-Hey! I'm a jack-of-all-trades developer who blends creativity with technical solutions. I started my journey behind a camera, and now I lead digital operations at PRB where I'm all about automating processes, improving workflows, and building internal web apps that make everything smoother and faster.
-
-I love creating custom solutions with Python and Django, building Shopify integrations that *actually* save time, and optimizing systems for teams handling thousands of images. Whether I'm deploying MVPs, enhancing e-commerce filtering systems, or managing secure infrastructure, my goal is to simplify the complex and deliver results that make an impact.
+📍 High Point, North Carolina  
+🌐 https://www.eriktaveras.com  
+🔗 LinkedIn: https://www.linkedin.com/in/eriktaveras/  
 
 ---
 
-## 💼 My professional journey
+## 🚀 What I do
 
-### Digital Solutions Architect & IT Operations Lead
-**PRB** – *Feb 2021 – Present*  
-📍 United States (Remote & On-Site)  
-- Built and maintain Django apps for inventory, product holds, repair tracking, and photo management.  
-- Developed advanced Shopify API integrations: filters, custom product pages, digital asset flows.  
-- Automated repetitive tasks using Python scripts and API workflows.  
-- Handle technical support, security, and device management across the organization.
+I help companies remove friction from their operations by combining:
 
-### Freelance Photographer & Developer  
-**Self-employed** – *Jan 2021 – Present*  
-📍 High Point, NC & Remote  
-- Offer photography and post-production for products and lifestyle content.  
-- Create automation tools for Shopify merchants using Python and Flask/Django.  
-- Developed systems to manage product catalogs, filter by attributes, and generate printable sheets.
+- **Python + Django (internal apps / micro-SaaS)**
+- **Shopify API (custom flows, private apps, automation)**
+- **n8n + Model Context Protocol (AI agents connected to internal systems)**
 
-### Ecommerce Product Photographer  
-**Ponce Berga** – *Feb 2021 – Dec 2023*  
-📍 United States  
-- Captured and processed high-end product photography for thousands of SKUs.  
-- Organized digital assets with efficient file-naming and backup strategies.  
-- Built internal tools to speed up photo cataloging and client review workflows.
+My work usually looks like this:
 
-### Warehouse & Team Supervisor  
-**Shop4Patio** – *May 2020 – Oct 2021*  
-📍 West Palm Beach, FL  
-- Oversaw shipping, receiving, and daily operations.  
-- Trained staff and implemented process improvements in logistics and inventory tracking.
+> Take a messy manual process → turn it into a self-operating system.
+
+I love building:
+- Internal CRMs, dashboards, and workflow tools
+- Automated pipelines for Shopify merchants (pricing, inventory, holds, ERP sync)
+- AI agents that execute tasks (not just generate text)
 
 ---
 
-## 📜 My certifications
+## 📈 GitHub Stats
 
-- Django Web Framework — *Platzi*, Dec 2023  
-- Git & GitHub Essentials — *Platzi*, Dec 2023  
-- Networking Basics — *Cisco Networking Academy*  
-- Cybersecurity Essentials — *Cisco Networking Academy*  
-- WordPress Site Creation & Optimization — *Platzi*
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktaveras&show_icons=true&theme=dark)](https://github.com/eriktaveras)
 
 ---
 
-## 🛠️ My favorite tools
+## 🏢 Current Role
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks & Platforms:** Django, Flask, Shopify (Liquid, API, GraphQL), FastAPI  
-- **Tools:** Git, GitHub, Heroku, Docker, Nginx, Stripe, Make (Integromat), REST APIs  
-- **Digital Assets:** Capture One, Adobe Photoshop, Synology NAS, Dropbox Automations  
-- **Specialties:**  
-  - E-commerce automation  
-  - Custom Shopify development  
-  - Internal SaaS tools for small teams  
-  - Digital photography & workflow design  
-  - Infrastructure for small businesses (IT + Web + Dev)
+### **Digital Automation Architect & IT Lead — PRB**
+*2021 — Present · North Carolina, USA*
 
----
+- Designed and maintain multiple internal Django systems  
+  (inventory, product holds, repair tracking, sales analytics).
+- Built Shopify automations that save hours every week using APIs + Python scripts.
+- Implemented secure infrastructure (NAS, automation servers, backups).
 
-## 🧠 Projects I'm working on
+### **Founder — Taveras Solutions (Automation & AI Consulting)**
+*2024 — Present*
 
-- **Shopify Filter API** — GraphQL-powered API to filter products by dimensions and tags.  
-- **Hold Config** — Internal Django system for managing product hold requests from Shopify.  
-- **KETOCONTO** — Nutrition membership platform with gated content, Stripe payments, and user control.  
-- **Antique SaaS MVP** — Marketplace system for antique galleries with curated collections and contact automation.  
-- **Photo Marketplace (WIP)** — Django + MinIO app for selling licensed photography, hosted on Raspberry Pi.
+- Build automation workflows for SMBs using **n8n + MCP + WhatsApp Business API**.
+- Deliver micro-SaaS MVPs in Django for small teams.
 
 ---
 
-## 🗣 Languages I speak
+## 🧠 Currently Building
 
-- 🇪🇸 Spanish – Native  
-- 🇺🇸 English – Professional Working Proficiency  
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Hold Manager SaaS** | Multi-tenant Django + Shopify Hold System | Django, HTMX, Stripe |
+| **Invoice AI** | OCR + classification + accounting automation | FastAPI, OpenAI, n8n |
+| **WhatsApp AI Agent (MCP)** | AI agent that executes tasks using n8n + MCP | n8n, MCP, GPT-5 |
+| **Shopify Photo Marketplace** | Photography licensing platform | Django + MinIO |
 
 ---
 
-## 💡 What I'm passionate about
+## 🧰 Tech I use daily
 
-- Automating the boring stuff with Python 🐍  
-- Helping small teams scale with minimal tools  
-- Photography, digital storytelling, and visual branding  
-- Tinkering with Raspberry Pi, 3D scanning, and smart home ideas  
-- Sharing what I learn at [eriktaveras.com](https://www.eriktaveras.com)
+**Languages:**  
+`Python` · `JavaScript`
+
+**Frameworks / Platforms:**  
+`Django` · `FastAPI` · `HTMX` · `Shopify API (REST / GraphQL)` · `n8n` · `MCP`
+
+**DevOps / Infra:**  
+`Docker` · `Linux` · `Heroku` · `Synology NAS` · `ZimaBoard`  
+
+**Other specialties:**  
+✅ Internal tools for small teams  
+✅ Process automation (n8n / APIs / Python)  
+✅ AI agents connected to internal systems (MCP)
+
+---
+
+## 🎯 Mission
+
+> I help businesses scale without hiring more people — by making software work like an employee.
+
+I create tools that:
+- increase speed 🏎️
+- reduce errors ✅
+- create leverage 🔁
+
+---
+
+## 🗣 Languages
+
+- 🇺🇸 English – Professional
+- 🇪🇸 Spanish – Native
+
+---
+
+## ✉️ Get in touch
+
+If you want to build an internal tool, automation, or AI agent for your business,  
+you can contact me here:
+
+📩 hello@eriktaveras.com  
+🔗 https://www.linkedin.com/in/eriktaveras/
