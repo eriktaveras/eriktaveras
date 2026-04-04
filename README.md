@@ -87,14 +87,23 @@ I publish technical content in Spanish for LATAM developers and entrepreneurs �
 - Short-form content: automation tips, AI tools, behind-the-build
 - Active brand collaborations · Rate card available at [beacons.ai/eriktaveras/mediakit](https://beacons.ai/eriktaveras/mediakit)
 
-**TikTok — [@eriktaveras](https://www.tiktok.com/@eriktaveras)**
+**TikTok — [@erik.py](https://www.tiktok.com/@erik.py)**
+- **53.8K followers** · 362.3K likes
 - Short-form content in Spanish for LATAM developers and entrepreneurs
+- Founder of TalosFlow.io · Construyo software · Automatizo empresas
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktaveras&show_icons=true&theme=dark)](https://github.com/eriktaveras)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriktaveras&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktaveras&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eriktaveras&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -143,5 +152,5 @@ Want to collaborate on content?
 📩 hello@eriktaveras.com  
 🔗 [linkedin.com/in/eriktaveras](https://www.linkedin.com/in/eriktaveras/)  
 📸 [instagram.com/eriktaveras](https://www.instagram.com/eriktaveras)  
-🎵 [tiktok.com/@eriktaveras](https://www.tiktok.com/@eriktaveras)  
+🎵 [tiktok.com/@erik.py](https://www.tiktok.com/@erik.py)  
 🌐 [eriktaveras.com](https://www.eriktaveras.com)
