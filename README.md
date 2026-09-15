@@ -94,7 +94,6 @@ I publish technical content in Spanish for developers and entrepreneurs in LATAM
 | 🎵 | [TikTok @erik.py](https://www.tiktok.com/@erik.py) | 86.8K followers · 737.9K likes |
 | ▶️ | [YouTube @ErikTaverasT](https://www.youtube.com/@ErikTaverasT) | 18.5K subscribers · long-form builds and tutorials |
 | 👥 | [AutoDev Community](https://comunidad.eriktaveras.com) | Community for automation and AI builders |
-| ✍️ | [Taveras Lab](https://blog.eriktaveras.com) | Blog |
 
 Topics: Claude & Claude Code · n8n · Django · Shopify · AI agents · local AI · homelab
 
