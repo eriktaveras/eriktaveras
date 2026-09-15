@@ -35,8 +35,8 @@ RAM when it hasn't generated anything for a while. Free, **open source (MIT)**, 
 <p align="center">
   <a href="https://github.com/eriktaveras/modelnap">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-dark.png">
-      <img src="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-light.png" width="640" alt="ModelNap panel in the macOS menu bar">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-en-dark.png">
+      <img src="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-en-light.png" width="640" alt="ModelNap panel in the macOS menu bar">
     </picture>
   </a>
 </p>
