@@ -1,156 +1,127 @@
+<div align="center">
+
 # Hey, I'm Erik Taveras 👋
 
-**Web Apps & AI Workflows · Django & Python Developer · Shopify API · n8n / MCP**
+**I build software, automate businesses and ship open-source tools — and I document it in Spanish for LATAM.**
 
-I build software and automate businesses — and I document the process publicly so others can do the same.
+Founder of [Taveras Solutions](https://taverassolutions.com) · Django & Python · n8n / MCP · Local AI & homelab
 
-📍 High Point, North Carolina  
-🌐 [eriktaveras.com](https://www.eriktaveras.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eriktaveras/)  
-📩 hello@eriktaveras.com
+[![Website](https://img.shields.io/badge/eriktaveras.com-111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.eriktaveras.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriktaveras/)
+[![YouTube](https://img.shields.io/badge/YouTube-18.5K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ErikTaverasT)
+[![Instagram](https://img.shields.io/badge/Instagram-135.8K-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eriktaveras)
+[![TikTok](https://img.shields.io/badge/TikTok-86.8K-000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@erik.py)
+[![Email](https://img.shields.io/badge/hello@eriktaveras.com-34D399?style=flat-square&logo=maildotru&logoColor=white)](mailto:hello@eriktaveras.com)
+
+</div>
+
+---
+
+## 🆕 Latest: ModelNap
+
+<a href="https://modelnap.com"><img align="left" src="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/logo/modelnap-icon-256.png" width="96" alt="ModelNap"></a>
+
+**[ModelNap](https://github.com/eriktaveras/modelnap)** — *Let idle local LLMs sleep. Get your Mac's memory back.*
+
+A native macOS menu bar app for **Ollama**: turn it on and off in one click (or ⌥⌘O), and automatically free the model's
+RAM when it hasn't generated anything for a while. Free, **open source (MIT)**, signed and notarized by Apple.
+
+[Website](https://modelnap.com) · [Download](https://github.com/eriktaveras/modelnap/releases/latest) · [Source](https://github.com/eriktaveras/modelnap)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-14%2B-111?style=flat-square&logo=apple&logoColor=white)
+
+<br clear="left">
+
+<p align="center">
+  <a href="https://github.com/eriktaveras/modelnap">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-dark.png">
+      <img src="https://raw.githubusercontent.com/eriktaveras/modelnap/main/docs/images/hero-light.png" width="640" alt="ModelNap panel in the macOS menu bar">
+    </picture>
+  </a>
+</p>
+
+---
+
+## 🛠️ Products
+
+| | Product | What it is | Stack |
+|:-:|---|---|---|
+| 💬 | **[TalosFlow](https://talosflow.io)** | WhatsApp CRM with an AI agent on Meta's official API: qualifies leads, transcribes voice notes, manages funnels and books appointments. From $49/month. | Django · n8n · OpenAI · WhatsApp Business API |
+| ⚡ | **[DjangoBlaze](https://www.djangoblaze.com)** | Production-ready Django SaaS boilerplate: auth, Stripe, teams, AI chat, admin and more, already wired. $99 one-time, unlimited projects. | Django · Stripe · Tailwind · Alpine.js · PostgreSQL |
+| 😴 | **[ModelNap](https://modelnap.com)** | Menu bar app that controls Ollama and frees local model memory when idle. Free and open source. | Swift · AppKit · SwiftUI |
+
+---
+
+## ⭐ Open source
+
+| Project | Description | |
+|---|---|---|
+| **[django-saas-boilerplate](https://github.com/eriktaveras/django-saas-boilerplate)** | Modern Django boilerplate for SaaS with HTMX, Tailwind CSS and Alpine.js | ![Stars](https://img.shields.io/github/stars/eriktaveras/django-saas-boilerplate?style=flat-square&label=%E2%98%85) |
+| **[facturas-opensource](https://github.com/eriktaveras/facturas-opensource)** | InvoiceFlow: AI invoice management with OCR and DGII tax validation for the Dominican Republic | ![Stars](https://img.shields.io/github/stars/eriktaveras/facturas-opensource?style=flat-square&label=%E2%98%85) |
+| **[modelnap](https://github.com/eriktaveras/modelnap)** | macOS menu bar app to turn Ollama on/off and free idle model memory | ![Stars](https://img.shields.io/github/stars/eriktaveras/modelnap?style=flat-square&label=%E2%98%85) |
+| **[SocialStarter](https://github.com/eriktaveras/SocialStarter)** | Open-source template for building social networks | ![Stars](https://img.shields.io/github/stars/eriktaveras/SocialStarter?style=flat-square&label=%E2%98%85) |
+| **[redayuda](https://github.com/eriktaveras/redayuda)** | Federated humanitarian data index so Venezuelan aid apps can share data through a common API | ![Stars](https://img.shields.io/github/stars/eriktaveras/redayuda?style=flat-square&label=%E2%98%85) |
+| **[Client-Payment-Skill](https://github.com/eriktaveras/Client-Payment-Skill)** | Claude Skill that bills a client end to end: Stripe payment link, PDF quote and email | ![Stars](https://img.shields.io/github/stars/eriktaveras/Client-Payment-Skill?style=flat-square&label=%E2%98%85) |
+| **[claude-dashboard](https://github.com/eriktaveras/claude-dashboard)** | Live Claude Code token-usage dashboard on a Raspberry Pi LCD, with an animated Clawd mascot | ![Stars](https://img.shields.io/github/stars/eriktaveras/claude-dashboard?style=flat-square&label=%E2%98%85) |
+| **[esp32-data-panel](https://github.com/eriktaveras/esp32-data-panel)** | Physical data panel on an ESP32-S3 that shows Instagram API stats on a 2.8" screen | ![Stars](https://img.shields.io/github/stars/eriktaveras/esp32-data-panel?style=flat-square&label=%E2%98%85) |
 
 ---
 
 ## 🚀 What I do
 
-I help companies remove friction from their operations by combining:
+I help companies remove friction from their operations:
 
-- **Python + Django** — internal apps, micro-SaaS, production systems
-- **Shopify API** — custom flows, private apps, ERP sync, inventory automation
-- **n8n + MCP + AI Agents** — autonomous agents connected to real business systems
-- **WhatsApp Business API** — client communication, lead handling, automated workflows
+- 🐍 **Python + Django** — internal tools, micro-SaaS and production systems
+- 🛒 **Shopify API** — custom flows, private apps, ERP sync and inventory automation
+- 🤖 **n8n + MCP + AI agents** — agents connected to real business systems
+- 💬 **WhatsApp Business API** — lead handling and automated client communication
+- 🏠 **Local AI & self-hosting** — Ollama, homelab services behind Cloudflare Tunnel, and hardware projects on ESP32 and Raspberry Pi
 
 > Take a messy manual process → turn it into a self-operating system.
 
----
-
-## 🛠️ Products I've shipped
-
-### [TalosFlow](https://talosflow.io) — WhatsApp CRM with AI
-A CRM platform built on Meta's official WhatsApp API. AI agent that qualifies leads, transcribes voice notes, manages sales funnels, and schedules appointments automatically.  
-150+ commercial teams across LATAM using it. 3-day free trial · $49/month.  
-**Stack:** Django · n8n · OpenAI · WhatsApp Business API (Meta official)  
-**Trademark:** Registered under Taveras Solutions LLC (USPTO)
-
-### [DjangoBlaze](https://www.djangoblaze.com) — Django SaaS Boilerplate
-A production-ready Django codebase that lets you skip 2+ weeks of infrastructure setup.  
-Ships with auth, Stripe payments, teams, AI chat, admin dashboard, SEO, and 20+ features wired.  
-**Stack:** Python 3.12 · Django 6.0 · Stripe · Tailwind CSS · Alpine.js · OpenAI · PostgreSQL  
-**Pricing:** Starter $99 · Pro $149 (unlimited projects, lifetime updates)
+**[Taveras Solutions LLC](https://taverassolutions.com)** — automation and AI consulting for SMBs in the US and LATAM.
 
 ---
 
-## 🏢 Current Roles
+## 📲 Content & community
 
-### **Digital Automation Architect & IT Lead — PRB Collection**
-*2021 — Present · High Point, NC*
+I publish technical content in Spanish for developers and entrepreneurs in LATAM — real builds, no fluff.
 
-- Designed and maintain multiple internal Django systems (inventory, product holds, repair tracking, sales analytics)
-- Built Shopify automations that save hours every week using APIs and Python scripts
-- Implemented secure infrastructure (Synology NAS, automation servers, backups)
-- Managing website updates and integrations for PRB's e-commerce operations
+| | Where | |
+|:-:|---|---|
+| 📸 | [Instagram @eriktaveras](https://www.instagram.com/eriktaveras) | 135.8K followers |
+| 🎵 | [TikTok @erik.py](https://www.tiktok.com/@erik.py) | 86.8K followers · 737.9K likes |
+| ▶️ | [YouTube @ErikTaverasT](https://www.youtube.com/@ErikTaverasT) | 18.5K subscribers · long-form builds and tutorials |
+| 👥 | [AutoDev Community](https://comunidad.eriktaveras.com) | Community for automation and AI builders |
+| ✍️ | [Taveras Lab](https://blog.eriktaveras.com) | Blog |
 
-### **Founder — Taveras Solutions LLC** *(Automation & AI Consulting)*
-*2024 — Present*
-
-- Build automation workflows for SMBs using **n8n + MCP + WhatsApp Business API**
-- Deliver micro-SaaS MVPs in Django for small teams across LATAM and the US
-- Active clients in Dominican Republic, North Carolina, and beyond
-- Current projects: fleet management platform (Django), social media distribution automation, omnichannel lead systems
+Topics: Claude & Claude Code · n8n · Django · Shopify · AI agents · local AI · homelab
 
 ---
 
-## 🧠 Currently Building
+## 🧰 Tech I use
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Hold Manager SaaS** | Multi-tenant Shopify hold system | Django · HTMX · Stripe |
-| **Invoice AI** | OCR + classification + accounting automation | FastAPI · OpenAI · n8n |
-| **WhatsApp AI Agent** | AI agent that executes tasks via n8n + MCP | n8n · MCP · Claude |
-| **Shopify Photo Marketplace** | Photography licensing platform | Django · MinIO |
-| **SPRC Fleet Platform** | Fleet operations management (client project) | Django · Vercel |
+**Languages** &nbsp; `Python` · `JavaScript` · `Swift` · `C/C++ (ESP32)`
 
----
+**Frameworks** &nbsp; `Django` · `FastAPI` · `HTMX` · `Alpine.js` · `Tailwind CSS` · `SwiftUI`
 
-## 📲 Content Creation
+**Automation & AI** &nbsp; `n8n` · `MCP` · `Claude` · `Claude Code` · `OpenAI` · `Ollama` · `WhatsApp Business API` · `Shopify API`
 
-I publish technical content in Spanish for LATAM developers and entrepreneurs — real builds, no fluff.
-
-**YouTube — [@ErikTaveras](https://www.youtube.com/@ErikTaveras)**
-- **16.4K subscribers** · Monetized channel
-- Topics: Claude · OpenClaw · n8n · Django · Shopify · AI Agents · automation for business
-- Recent videos: *OpenClaw on VPS*, *Building a WhatsApp SaaS*, *Retell AI + n8n Voice Agent*, *Chatwoot + WhatsApp Business API*
-- 315% revenue growth in the last 90 days
-
-**Instagram — [@eriktaveras](https://www.instagram.com/eriktaveras)**
-- **58.3K followers** · 148 posts
-- Short-form content: automation tips, AI tools, behind-the-build
-- Active brand collaborations · Rate card available at [beacons.ai/eriktaveras/mediakit](https://beacons.ai/eriktaveras/mediakit)
-
-**TikTok — [@erik.py](https://www.tiktok.com/@erik.py)**
-- **53.8K followers** · 362.3K likes
-- Short-form content in Spanish for LATAM developers and entrepreneurs
-- Founder of TalosFlow.io · Construyo software · Automatizo empresas
+**Infra** &nbsp; `Docker` · `Linux` · `Cloudflare Tunnel` · `Forgejo` · `PostgreSQL` · `Stripe` · self-hosted homelab
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eriktaveras&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktaveras&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
+<img src="https://streak-stats.demolab.com?user=eriktaveras&hide_border=true" alt="GitHub streak">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eriktaveras&theme=dark&hide_border=true" />
-</p>
+### ✉️ Let's build something
 
----
+Building an internal tool, automation or AI agent for your business? Want to collaborate on content?
 
-## 🧰 Tech I use daily
+**[hello@eriktaveras.com](mailto:hello@eriktaveras.com)** · [LinkedIn](https://www.linkedin.com/in/eriktaveras/) · [eriktaveras.com](https://www.eriktaveras.com)
 
-**Languages:** `Python` · `JavaScript`
+🇺🇸 English · 🇪🇸 Español · 📍 North Carolina
 
-**Frameworks / Platforms:**  
-`Django` · `FastAPI` · `HTMX` · `Alpine.js` · `Shopify API (REST / GraphQL)` · `n8n` · `MCP`
-
-**AI / Agents:**  
-`Claude` · `Claude Code` · `OpenClaw` · `OpenAI` · `Retell AI` · `WhatsApp Business API`
-
-**DevOps / Infra:**  
-`Docker` · `Linux` · `Railway` · `Heroku` · `Vercel` · `Synology NAS` · `ZimaBoard`
-
-**Specialties:**  
-✅ Internal tools for small teams  
-✅ Process automation (n8n / APIs / Python)  
-✅ AI agents connected to real business systems (MCP)  
-✅ Shopify automation for merchants  
-✅ SaaS boilerplates and MVPs
-
----
-
-## 🎯 Mission
-
-> I help businesses scale without hiring more people — by making software work like an employee.
-
-I create tools that increase speed 🏎️, reduce errors ✅, and create leverage 🔁.
-
----
-
-## 🗣 Languages
-
-- 🇺🇸 English — Professional
-- 🇪🇸 Spanish — Native
-
----
-
-## ✉️ Get in touch
-
-Building an internal tool, automation, or AI agent for your business?  
-Want to collaborate on content?
-
-📩 hello@eriktaveras.com  
-🔗 [linkedin.com/in/eriktaveras](https://www.linkedin.com/in/eriktaveras/)  
-📸 [instagram.com/eriktaveras](https://www.instagram.com/eriktaveras)  
-🎵 [tiktok.com/@erik.py](https://www.tiktok.com/@erik.py)  
-🌐 [eriktaveras.com](https://www.eriktaveras.com)
+</div>
